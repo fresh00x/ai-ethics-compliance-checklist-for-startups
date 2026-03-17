@@ -1,6 +1,6 @@
 # ai-ethics-compliance-checklist-for-startups
 
-This comprehensive AI ethics compliance checklist is designed for startup founders to ensure their businesses adhere to ethical AI practices and guidelines. In this guide, we will cover key findings i
+This AI ethics compliance checklist is designed to help startup founders ensure their use of artificial intelligence adheres to ethical standards and best practices.
 
 ## Dataset Info
 
